@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Wilson Hernandez",
+    "label": "Technical Support Specialist",
+    "email": "wilsonyhernandez@gmail.com",
+    "phone": "(818) 835-3703",
+    "url": "https://jalborugs.com",
+    "summary": "Experienced technical support specialist with a proven track record in troubleshooting and problem-solving, and an entrepreneur with a keen interest in rug making and music production.",
+    "location": {
+      "address": "2275 Barker Avenue",
+      "postalCode": "NY 10467",
+      "city": "Bronx",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "jalborugs",
+        "url": "https://instagram.com/jalborugs"
+      },
+      {
+        "network": "GitHub",
+        "username": "captainjalbo",
+        "url": "https://github.com/captainjalbo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "organization": "Geotab",
+      "position": "Technical Support Specialist",
+      "url": "https://geotab.com",
+      "startDate": "2021-02-28",
+      "endDate": "present",
+      "summary": "Developed strong relationships with automobile manufacturers, improving processes and enhancing case resolution efficiency.",
+      "highlights": [
+        "Specializing in OEM support",
+        "Strengthened relationships with automobile manufacturers",
+        "Improved case resolution efficiency"
+      ]
+    },
+    {
+      "organization": "American Museum of Natural History",
+      "position": "Intern, Research Associate, Curriculum Consultant",
+      "startDate": "2013-09-22",
+      "endDate": "present",
+      "summary": "Worked in various roles, from intern to curriculum consultant, participated in a research project on Cepheid Variable Stars, designed and conducted tours, and developed a successful curriculum focused on Data Science and Machine Learning under NSF grant 2049022."
+    },
+    {
+      "organization": "Trapezio West LLC (Jalbo)",
+      "position": "Founder",
+      "url": "https://jalbo.store/",
+      "startDate": "2022-08-25",
+      "endDate": "present",
+      "summary": "Started my own business, Jalbo, and transformed it into a successful venture with commissioned pieces for notable events.",
+      "highlights": [
+        "Participated in two events for the AGBU organization as a commissioned artist",
+        "Designed, developed and pioneered the working QR code rug"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bronx High School of Science",
+      "studyType": "High School Diploma",
+      "startDate": "2011",
+      "endDate": "2015",
+      "summary": "Graduated from an elite science high school with a strong foundation in various science disciplines and mathematics."
+    },
+    {
+      "institution": "University of Wisconsin",
+      "area": "Physics and Astrophysics",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "2015",
+      "endDate": "2020",
+      "summary": "Completed an intensive program delving deeply into physics and astrophysics."
+    },
+    {
+      "institution": "CUNY Graduate Center",
+      "area": "Data Science",
+      "studyType": "Master's Program",
+      "startDate": "2023-01-01",
+      "endDate": "2025",
+      "courses": [
+        "DATA 606 - Statistics and Probability",
+        "DATA 607 - Data Acquisition and Management"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate in Data Science",
+      "date": "2023",
+      "issuer": "Universidade de Coimbra",
+    },
+    {
+      "name": "Certificate in Portuguese Language and Culture",
+      "date": "2023",
+      "issuer": "Universidade de Coimbra",
+    }
+  ],
+  "publications": [
+    {
+      "name": "Jalbo Rugs",
+      "publisher": "jalborugs.com",
+      "releaseDate": "2022-12-01",
+      "url": "https://jalborugs.com",
+      "summary": "A newsletter that showcases the unique rugs created by Jalbo."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "R"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Multidisciplinary",
+      "keywords": [
+        "Rug making",
+        "Bass playing",
+        "Music production",
+        "Seinfeld",
+        "Astrophysics",
+        "Public Transportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Alex Montenegro",
+      "reference": "alexmontenegro@geotab.com"
+    },
+    {
+      "name": "Keshika Callychurn",
+      "reference": "keshikacallychurn@geotab.com"
+    }
+  ],
+  "projects": []
+}
